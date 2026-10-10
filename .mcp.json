@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "chat-archive-mcp": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/dafeiai918/chat-archive-mcp",
+        "chat-archive-mcp"
+      ]
+    }
+  }
+}
