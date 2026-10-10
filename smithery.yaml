@@ -1,0 +1,7 @@
+name: chat-archive-mcp
+description: 会话归档检索 MCP：让 AI 搜索你的历史对话内容
+categories:
+  - tools
+  - search
+license: MIT
+repository: https://github.com/dafeiai918/chat-archive-mcp
